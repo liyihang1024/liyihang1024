@@ -1,5 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liyihang1024&show_icons=true&theme=radical)
-### 你好，世界 👋
+### My Motto 🌟
+"Code is like humor. When you have to explain it, it’s bad." - Cory House
 
 
 <!--
