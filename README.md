@@ -1,4 +1,6 @@
-### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liyihang&show_icons=true&theme=radical)
+### 你好，世界 👋
+
 
 <!--
 **liyihang1024/liyihang1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
